@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h1{
+  font-family: 'Lobster', cursive;
+  color: #555;
+}
+.user{
+  display: flex;
+  flex-direction: row;
+}
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.names{
+  display: flex;
+  flex-direction: column;
+  font-family: 'Anton', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+h3{
+  color: crimson;
+  font-family: 'Anton', sans-serif;
+}
+
+
